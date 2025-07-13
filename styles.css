@@ -43,7 +43,7 @@ p{
 button{
     cursor: pointer;
     width: 269px;
-    height: 62px;
+    height: 60px;
     filter: drop-shadow(0px 10px 24px rgba(148, 153, 234, 0.10));
     background: #9499EA;
     border-radius: 32px;
